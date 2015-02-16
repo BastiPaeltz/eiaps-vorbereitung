@@ -55,9 +55,9 @@ unabhängig von einzelnen Sprachen als sinnvoll identifiziert
   ```java
   int [] myArray = new int [5];
   ```
-  * Dieses int-Array basiert auf dem Datentyp *Integer* (sowie dessen Operationen).
-  * Sein Wertebereich umfasst in unserem Beispiel 0 bis 4, unser Array kann bis zu 5 Elemente vom Typ <code>int</code> enthalten.
-  * Gleichzeitig definiert das int-Array Operationen, die man "auf ihm" ausführen kann, z.B. <code>myArray[0] = 1;</code> 
+  * Dieses int-Array **basiert auf dem Datentyp** *Integer* (sowie dessen Operationen).
+  * Sein **Wertebereich** umfasst in unserem Beispiel 0 bis 4, unser Array kann bis zu 5 Elemente vom Typ <code>int</code> enthalten.
+  * Gleichzeitig definiert das int-Array **Operationen**, die man "auf ihm" ausführen kann, z.B. <code>myArray[0] = 1;</code> 
   oder die Methode <code>sort(myArray)</code>, die das Array sortiert.
   
 * Eine weitere **Datenstruktur** in Java ist die Klasse (oder das Objekt):
