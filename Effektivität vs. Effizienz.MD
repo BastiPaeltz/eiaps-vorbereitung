@@ -32,7 +32,7 @@ ausführbar ist.
 
 * Schwierigeres Bsp. - Betrachten wir einen **Sortier-Algorithmus**, der ein Array nach folgendem Muster sortiert:
  * Er teilt das array in einen vorderen sortierten Teil (der am Anfang leer ist) und einen hinteren unsortierten Teil
- * Dann läuft er von vorn bis hinten durch das Array und fügt jedes Element in den sortierten Teil des Arrays ein, indem ...
+ * Dann läuft er von vorn bis hinten durch das Array und fügt jedes Element aus dem unsortierten Teil in den sortierten Teil des Arrays ein, indem ...
  * ... er von vorn bis hinten durch den sortierten Teil läuft und die richtige Position für das Element ermittelt
  * **Dieser Algorithmus ist EFFEKTIV.** Er kann vom Computer ausgeführt werden. Jedoch ist er nicht **EFFIZIENT**. Es gibt deutlich schnellere <a href="http://de.wikipedia.org/wiki/Sortierverfahren">Sortieralgorithmen</a>.  
 
