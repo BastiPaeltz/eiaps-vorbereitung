@@ -31,7 +31,7 @@ nennt man **Repräsentation**.
 * Die **Information** <code>etwas hat den Wert/die Anzahl 3, z.B. **Bier**</code> wird für uns Menschen in den verschiedenen Sprachen als z.B. <code>three beer, drei bier</code> usw. **repräsentiert**.
   * Bezogen auf die Sprache **Java** wäre die **Repräsentation** <code>anzahlBier = 3;</code>.
   * Ist der Addressat z.B. der Computer, kann dieser nur mit 0 und 1 etwas anfangen. 
-  Also wäre die Repräsentation der Zahl <code>3</code> für den PC  z.B. <code>011</code>. 
+  Also wäre die Repräsentation der Zahl <code>3</code> z.B. <code>011</code>. 
 
 * Die **Information** <code>Gewinn eines Unternehmens im Jahr (pro Monat)</code> kann man z.B. als <code>Diagramm, Tabelle usw.</code> **repräsentieren**.
 
