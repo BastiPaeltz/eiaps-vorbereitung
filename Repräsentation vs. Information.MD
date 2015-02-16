@@ -28,10 +28,10 @@ also z.B. den Menschen oder eben den Computer verständlich ist. Diese **Darstel
 nennt man **Repräsentation**. 
 
 ###konkrete Beispiele:
-* Die **Information** <code>etwas hat den Wert/die Anzahl 3, z.B. **Bier**</code> wird für uns Menschen in den verschiedenen Sprachen als z.B. <code>3, III, three, drei</code> usw. **repräsentiert**.
-  * Bezogen auf die Sprache **Java** wäre die **Repräsentation** <code>bier=3;</code>.
+* Die **Information** <code>etwas hat den Wert/die Anzahl 3, z.B. **Bier**</code> wird für uns Menschen in den verschiedenen Sprachen als z.B. <code>three beer, drei bier</code> usw. **repräsentiert**.
+  * Bezogen auf die Sprache **Java** wäre die **Repräsentation** <code>anzahlBier = 3;</code>.
   * Diese Art der Repräsentation versteht nur der Mensch, der Computer versteht aber nur 0 und 1. 
   Also wäre die Repräsentation für den PC  z.B. <code>011</code>. 
 
-* Die **Information** <code>Gewinn eines Unternehmens im Jahr (pro Monat)</code> kann man z.B. als <code>Diagramm, Tabelle usw.</code> *repräsentieren*.
+* Die **Information** <code>Gewinn eines Unternehmens im Jahr (pro Monat)</code> kann man z.B. als <code>Diagramm, Tabelle usw.</code> **repräsentieren**.
 
