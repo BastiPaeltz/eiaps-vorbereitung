@@ -52,7 +52,8 @@ public abstract class UnterformEinerGeometrischenFigur extends geometrischeFigur
 muss abstrakte Methoden NICHT implementieren.
   
   public abstract void setRadius(float radius); 
-  // da die Klasse abstrakt ist, muss sie nichts implementieren, sondern kann wie hier z.B. eine weitere abstrakte Methode definieren.
+  // da die Klasse abstrakt ist, muss sie nichts implementieren, 
+  sondern kann wie hier z.B. eine weitere abstrakte Methode definieren.
 
 }
 
