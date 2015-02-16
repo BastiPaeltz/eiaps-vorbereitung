@@ -27,7 +27,7 @@ Zeichen in den Formen und Strukturen einzugehen. Syntaktisch korrekte Ausdrücke
 
 
 ###Kurz zusammengefasst
-* *Effektivität und Effizienz* beschäftigte sich mit dem Algorithmus, **Syntax** und **Semantik** sind Eigenschaften einer **Sprache**. 
+* **Syntax** und **Semantik** sind Eigenschaften einer **Sprache**. 
 * **Die Bedeutungen**:
  * **Syntax** ist simpel gesagt, die Eigenschaft, wie eine Sprache "aussieht". Welche Zeichen sie enthält und welche Anordnungen von Zeichen korrekt sind. Also die **Grammatik** einer Sprache.
  * **Semantik** ist die **Bedeutung / Interpretation** dieser Zeichen. 
