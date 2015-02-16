@@ -25,7 +25,7 @@ manipuliert werden ?
   int zahl = 3;
   ```
   * Diese variable zahl vom Typ **Integer** hat den **Wertebereich** -2147483648 bis +2147483648.
-  * Gleichzeitig sind in Java bestimmte **Operatoren** für int definiert, wie z.B. +, -, / usw. 
+  * Gleichzeitig sind in Java bestimmte **Operatoren** für int definiert, wie z.B. **+, -, /** usw. 
 * Eine **Datenstruktur** in Java wäre z.B. das Array:
   * Das Array ist **homogen**, da es nur Daten vom selben **Datentyp** speichert.
   ```java
