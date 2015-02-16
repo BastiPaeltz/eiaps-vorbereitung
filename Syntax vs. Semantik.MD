@@ -4,7 +4,7 @@
 • Menge der erlaubten Zeichen<br>
 • Welche Kombinationen von Zeichen sind erlaubt und strukturell gültig
 --> Formal definierte Syntax der Sprache
-  * Beispiele: <br>
+  * **Beispiele:** <br>
 • Programm beginnt mit ‘{‘ und endet mit ‘}’ <br>
 • zu jeder öffnenden Klammer gehört eine schließende Klammer <br>
 • Programmtext enthält keine Umlaute oder Sonderzeichen <br>
@@ -15,7 +15,7 @@
 Programm, und <br>
 • der eindeutigen Festlegung der Bedeutung (Semantik) für jedes den
 Anforderungen entsprechende Programm. 
-  * Beispiele:<br>
+  * **Beispiele:**<br>
 • Namen müssen ‘deklariert’ werden bevor sie verwendet werden<br>
 • Einer für Zahlen ‘deklarierten’ Variable keine Zeichenkette zuweisbar
 
