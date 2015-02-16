@@ -4,18 +4,18 @@
 • Menge der erlaubten Zeichen
 • Welche Kombinationen von Zeichen sind erlaubt und strukturell gültig
 --> Formal definierte Syntax der Sprache
-  * Beispiele:
-• Programm beginnt mit ‘{‘ und endet mit ‘}’
-• zu jeder öffnenden Klammer gehört eine schließende Klammer
-• Programmtext enthält keine Umlaute oder Sonderzeichen
+  * Beispiele: <br>
+• Programm beginnt mit ‘{‘ und endet mit ‘}’ <br>
+• zu jeder öffnenden Klammer gehört eine schließende Klammer <br>
+• Programmtext enthält keine Umlaute oder Sonderzeichen <br>
 
-* **Semantik**: Klar festgelegte Interpretation der ‘Sprache’ durch Angabe von
-• evtl. notwendigen zusätzlichen Anforderungen an ein syntaktisch korrektes
-Programm, und
+* **Semantik**: Klar festgelegte Interpretation der ‘Sprache’ durch Angabe von <br>
+• evtl. notwendigen zusätzlichen Anforderungen an ein syntaktisch korrektes <br>
+Programm, und <br>
 • der eindeutigen Festlegung der Bedeutung (Semantik) für jedes den
-Anforderungen entsprechende Programm.
-  * Beispiele:
-• Namen müssen ‘deklariert’ werden bevor sie verwendet werden
+Anforderungen entsprechende Programm. <br>
+  * Beispiele:<br>
+• Namen müssen ‘deklariert’ werden bevor sie verwendet werden<br>
 • Einer für Zahlen ‘deklarierten’ Variable keine Zeichenkette zuweisbar
 
 
