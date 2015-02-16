@@ -55,6 +55,7 @@ Zeichen in den Formen und Strukturen einzugehen. Syntaktisch korrekte Ausdrücke
 ``` 
   * ... ist syntaktisch erst einmal korrekt, die Semikolons wurden gesetzt, es wurden valide Zeichen verwendet. 
   Jedoch ist es **semantisch nicht korrekt** einem int-Wert einem String zuzuordnen. Hier würde der Compiler einen Error geben.
+  
 * Es ist also wichtig zu erkennen, dass die **Syntax** wirklich minimal nur festlegt, welche **Anordnung von Zeichen** korrekt sind und
 absolut nichts anderes tut. 
 
