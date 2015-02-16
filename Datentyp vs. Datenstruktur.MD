@@ -33,11 +33,7 @@ Programmiersprachen
 unabhängig von einzelnen Sprachen als sinnvoll identifiziert
  * je nach verwendeter Sprache evtl. aber unterschiedlich ‚nützlich‘
 * **Grundlage**: verfügbare Programmier-Sprache
- * grundlegende Wertebereiche: bool, int, float, …, char, String, … (vgl. II.2)
- * Felder kombinieren homogene Werte (vgl. II-34 ff.)
- * Attributbündel (Strukturen) bzw. Klassen kombinieren heterogene Werte
- * Attribute mit Referenzen auf weitere Objekte erlauben die
-Zusammenfassung beliebig komplexer Kombinationen von Objekten
+ * grundlegende Wertebereiche: bool, int, float, …, char, String, … 
 
 ###zusätzliche Infos:
 * Das denke ich reicht aus als Information. 
