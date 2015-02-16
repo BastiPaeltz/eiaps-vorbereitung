@@ -21,7 +21,7 @@ manipuliert werden ?
 
 ###konkrete Beispiele:
 * Ein **Datentyp** in Java wäre z.B. **int** / Integer:
-  ```java
+  ```
   int zahl = 3;
   ```
   * Diese variable zahl vom Typ **Integer** hat den **Wertebereich** -2147483648 bis +2147483648.
