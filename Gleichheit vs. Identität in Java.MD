@@ -3,7 +3,7 @@
 | Eigenschaften  | Gleichheit | identität |
 | ------------- | ------------- | --------------- |
 | Konzept  |  Gibt es zwei unterschiedliche Instanzen der gleichen Klasse mit gleichen Werten --> **Gleichheit der Objekte**  | Zwei unterschiedliche Namen, die die gleiche Instan zreferenzieren --> **Identität**, da es nur ein Objekt ist! |
-| Test auf ... mit | <code>obj1.equals(obj2)</code> | obj1 == obj2 |
+| Test auf ... mit | <code>obj1.equals(obj2)</code> | <code>obj1 == obj2</code> |
 | Speicherbereich / Referenz | unterschiedlicher Speicherbereich beider Objekte | selber Speicherbereich beider Objekte |
 | Werte | beide Objekte haben die exakt gleichen Werte | beide Objekte haben die exakt gleichen Werte |
 
