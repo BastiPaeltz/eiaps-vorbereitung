@@ -40,7 +40,7 @@ unabhängig von einzelnen Sprachen als sinnvoll identifiziert
   
 ###Kurz zusammengefasst
 * **Datentypen** sind die grundlegendsten Wertebereiche (z.B. Zahlen) und Operationen, die auf diesen möglich sind. (z.B. Addition).
-* **Datenstrukturen** basieren auf Datentypen und wie der Name schon sagt, gibt diesen eine *Strktur*,  definiert also selbst wieder Wertebereiche und Operationen. (siehe Beispiel)
+* **Datenstrukturen** basieren auf Datentypen und wie der Name schon sagt, gibt diesen eine **Struktur**,  benutzen die Datentypen also um selbst wieder Wertebereiche und Operationen zu definieren. (siehe Beispiel)
 
 
 ###konkrete Beispiele:
