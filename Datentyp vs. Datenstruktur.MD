@@ -7,9 +7,37 @@ manipuliert werden ?
   * wie können Operationen sinnvoll kombiniert und ausgewertet werden ?
   * wie können (Zwischen-)Ergebnisse gesichert und weiterverwendet werden?
 --> <b>Wertebereiche, Deklarationen, Definitionen und Umgebungen</b> <br>
+* **Datentyp:** Spezifikation und Verwendung (‚Was‘)
+ * abstrakte Funktionalität steht im Vordergrund
+ * Jedes Exemplar eines Typs (Instanz einer Klasse) unterstützt einen
+festen Umfang an Funktionalität, d.h. an erlaubten Operationen
+ * Grundlage der Überprüfung von Programmen vor dem Ablauf auf
+mögliche Fehler
+
 * **Datenstruktur**: Idee: schrittweise komplexere Strukturen aufbauen
   * grundlegende Wertebereiche (**Datentypen**) geordnet zu neuen Wertebereichen kombinieren
   * Strukturen schaffen, die näher am zu lösenden Problem sind
+* **Datenstruktur:** Implementierung und Zugriff (‚Wie‘)
+ * konkreter, interner Aufbau steht im Vordergrund
+ * geeignete Abbildung der gewünschten Funktionalität in ein
+Programm in einer Programmiersprache
+
+* **Datentyp:** unabhängig von konkreten Prog.-Sprachen
+ * erlaubt die Realisierung in unterschiedlichen Sprachen und
+‚Umgebungen‘ wie z.B. Betriebssystemen usw.
+ * erlaubt die Kombination von Implementierungen in unterschiedlichen
+Programmiersprachen
+ * Datenstruktur: Mittel zur Abbildung 
+ * Technik zum ‚Konkretisieren‘ der gewünschten ‚Ideen‘
+ * eine ganze Reihe allgemein einsetzbarer Techniken sind mittlerweile
+unabhängig von einzelnen Sprachen als sinnvoll identifiziert
+ * je nach verwendeter Sprache evtl. aber unterschiedlich ‚nützlich‘
+ * Grundlage: verfügbare Programmier-Sprache
+ * grundlegende Wertebereiche: bool, int, float, …, char, String, … (vgl. II.2)
+ * Felder kombinieren homogene Werte (vgl. II-34 ff.)
+ * Attributbündel (Strukturen) bzw. Klassen kombinieren heterogene Werte
+ * Attribute mit Referenzen auf weitere Objekte erlauben die
+Zusammenfassung beliebig komplexer Kombinationen von Objekten
 
 ###zusätzliche Infos:
 * Das denke ich reicht aus als Information. 
