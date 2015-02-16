@@ -8,7 +8,7 @@ Menschen mit Bleistift und Papier unter Befolgung genauer Vorschriften
 ausführbar ist.
 
 ###zusätzliche Infos:
-* Die Effizienz eines Algorithmus ist seine Sparsamkeit bezüglich der Rechenzeit und Speicherplatz, die er zur Lösung eines festgelegten Problems beansprucht. Mit steigender Effizienz sinkt die Komplexität eines Algorithmus. Jedoch sind effiziente Algorithmen meist schwerer zu verstehen, da sie oft auf ausgeklügelten Ideen beruhen. Effiziente Algorithmen sind schnell in der Lösung des entsprechenden Problems. (Wikipedia)
+* Die **Effizienz** eines Algorithmus ist seine Sparsamkeit bezüglich der Rechenzeit und Speicherplatz, die er zur Lösung eines festgelegten Problems beansprucht. Mit steigender Effizienz sinkt die Komplexität eines Algorithmus. Jedoch sind effiziente Algorithmen meist schwerer zu verstehen, da sie oft auf ausgeklügelten Ideen beruhen. Effiziente Algorithmen sind schnell in der Lösung des entsprechenden Problems. (Wikipedia)
 *  * Rechenzeit: Wie lang braucht der Computer, um den Algorithmus auszuführen, Speicherplatz: Wie viel Speicher nutzt der Algorithmus?
   
 ###Kurz zusammengefasst
