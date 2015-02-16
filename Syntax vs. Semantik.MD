@@ -9,7 +9,7 @@
 • zu jeder öffnenden Klammer gehört eine schließende Klammer <br>
 • Programmtext enthält keine Umlaute oder Sonderzeichen <br>
 
-
+<br>
 * **Semantik**: Klar festgelegte Interpretation der ‘Sprache’ durch Angabe von <br>
 • evtl. notwendigen zusätzlichen Anforderungen an ein syntaktisch korrektes <br>
 Programm, und <br>
