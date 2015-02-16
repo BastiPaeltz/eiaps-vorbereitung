@@ -13,4 +13,4 @@ Vorbereitung auf EiAPS :D
 
 ##<a href="https://github.com/BastiPaeltz/eiaps-vorbereitung/blob/master/Datentyp%20vs.%20Datenstruktur.MD">Datentyp vs. Datenstruktur</a>
 
-##<a href="https://github.com/BastiPaeltz/eiaps-vorbereitung/blob/master/Abstrakte%20Klassen%20vs%20Interfaces%20in%20Java.MD">Abstrakte Klassen vs Interfaces in Java</a>
+##<a href="https://github.com/BastiPaeltz/eiaps-vorbereitung/blob/master/Abstrakte%20Klassen%20vs%20Interfaces%20in%20Java.MD">Abstrakte Klassen vs. Interfaces in Java</a>
