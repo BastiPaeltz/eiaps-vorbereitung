@@ -19,7 +19,7 @@ ausführbar ist.
  * Effizienz hingegen ist eine Eigenschaft, die misst, wie gut / effizient ein Algorithmus das vorliegende Problem löst. **Ein ineffizienter Algorithmus ist ein Algorithmus!** Effizienz ist also **keine** Grundvoraussetzung des Algorithmus.
  
 ###konkrete Beispiele:
-* Ein Algorithmus, der <code>alle Stellen von Pi berechnet, alle Primzahlen berechnet oder durch Null teilt</code> ist **NICHT EFFEKTIV**. Er kann vom Computer nicht ausgeführt werden.
+* Ein Algorithmus, der <code>alle Stellen von Pi ermittelt, alle Primzahlen berechnet oder durch Null teilt</code> ist **NICHT EFFEKTIV**. Er kann vom Computer nicht ausgeführt werden.
 * Betrachten wir folgenden Java-Code:  
 ```java
     public int berechneSumme (int a, int b){ 
