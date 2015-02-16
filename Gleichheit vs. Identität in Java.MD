@@ -20,7 +20,7 @@ k1.name = „Meyer"; k1.vorname = „Bertrand"; // Objekt 1 --> name = Meyer, vo
 k1.identNr = 1;                             // Objekt 1 --> name = Meyer, vorname = Bernd, nr = 1
 k2 = new SimpleKunde();                     // Objekt 2 wird instanziert
 k2.name = „Meyer"; k2.vorname = „Bertrand"; // Objekt 2 --> name = Meyer, vorname = Bernd --> = Vorname und Name von Objekt 1
-k2.identNr = 1;                             // Objekt 2 --> name = Meyer, vorname = Bernd, nr = 1 --> Gleichheit
+k2.identNr = 1;                             // Objekt 2 --> name = Meyer, vorname = Bernd, nr = 1 --> exakte selbe Werte --> Gleichheit mit Objekt 1
 // Warum nicht Identität? --> beide Objekte zeigen auf unterschiedliche Bereiche im Speicher --> darum keine Identität
 // k1 und K2 sind nicht identisch, aber gleich
 k3 = k1;
