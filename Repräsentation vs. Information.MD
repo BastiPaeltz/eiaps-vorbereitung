@@ -2,7 +2,7 @@
 ###Infos aus dem Skript:
 * Maschine verarbeitet nicht Information an sich, sondern immer nur 
 eine der Maschine zugängliche Repräsentation dieser Information!
-* **Beispiel Baum**: gleiche Information(Ding mit Blättern undso), verschiedene Repräsentationen('tree','Baum', 'arbor' usw.)
+* **Beispiel Baum**: gleiche Information, verschiedene Repräsentationen('tree','Baum', 'arbor' usw.)
 * Information ist die abstrakte Bedeutung von Ausdrücken, Graphiken,
 Darstellungen, Anweisungen und Aussagen.
 * Information ist unabhängig von der Frage, wie sie dargestellt wird
