@@ -1,10 +1,10 @@
 ##Syntax vs. Semantik
 ###Infos aus dem Skript:
-* **Syntax**: Klar festgelegte Repräsentation als ‘Sprache’ durch Angabe von:
-• Menge der erlaubten Zeichen
+* **Syntax**: Klar festgelegte Repräsentation als ‘Sprache’ durch Angabe von: <br>
+• Menge der erlaubten Zeichen<br>
 • Welche Kombinationen von Zeichen sind erlaubt und strukturell gültig
 --> Formal definierte Syntax der Sprache
-  * Beispiele: 
+  * Beispiele: <br>
 • Programm beginnt mit ‘{‘ und endet mit ‘}’ <br>
 • zu jeder öffnenden Klammer gehört eine schließende Klammer <br>
 • Programmtext enthält keine Umlaute oder Sonderzeichen <br>
