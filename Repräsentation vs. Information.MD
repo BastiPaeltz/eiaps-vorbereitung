@@ -23,9 +23,9 @@ Die Repräsentation wird als Information interpretiert.
 * Ich denke das ist genug. 
 
 ###Kurz zusammengefasst:
-* Information ist die **Bedeutung**, diese Bedeutung muss nun dargestellt werden, damit sie für den Adressaten, 
+* **Information** ist die **Bedeutung**, diese Bedeutung muss nun dargestellt werden, damit sie für den Adressaten, 
 also z.B. den Menschen oder eben den Computer verständlich ist. Diese **Darstellung** (oder Deutung) der Information
-nennt man Repräsentation. 
+nennt man **Repräsentation**. 
 
 ###konkrete Beispiele:
 * Die **Information** <code>etwas hat den Wert/die Anzahl 3, z.B. **Bier**</code> wird für uns Menschen in den verschiedenen Sprachen als z.B. <code>3, III, three, drei</code> usw. **repräsentiert**.
