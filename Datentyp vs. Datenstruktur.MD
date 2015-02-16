@@ -27,12 +27,12 @@ Programm in einer Programmiersprache
 ‚Umgebungen‘ wie z.B. Betriebssystemen usw.
  * erlaubt die Kombination von Implementierungen in unterschiedlichen
 Programmiersprachen
- * Datenstruktur: Mittel zur Abbildung 
+* **Datenstruktur**: Mittel zur Abbildung 
  * Technik zum ‚Konkretisieren‘ der gewünschten ‚Ideen‘
  * eine ganze Reihe allgemein einsetzbarer Techniken sind mittlerweile
 unabhängig von einzelnen Sprachen als sinnvoll identifiziert
  * je nach verwendeter Sprache evtl. aber unterschiedlich ‚nützlich‘
- * Grundlage: verfügbare Programmier-Sprache
+* **Grundlage**: verfügbare Programmier-Sprache
  * grundlegende Wertebereiche: bool, int, float, …, char, String, … (vgl. II.2)
  * Felder kombinieren homogene Werte (vgl. II-34 ff.)
  * Attributbündel (Strukturen) bzw. Klassen kombinieren heterogene Werte
