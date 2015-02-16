@@ -13,7 +13,7 @@ ausführbar ist.
   * **Rechenzeit heißt:** Wie lang braucht der Computer, um den Algorithmus auszuführen, **Speicherplatz heißt:** Wie viel Speicher nutzt der Algorithmus?
   
 ###Kurz zusammengefasst
-* Ging es bei Information vs. Repräsentation um etwas sehr Grundlegendes(Abstraktes), sind **Effektivität und Effizienz** Eigenschaften eines <a href="http://www.info-wsf.de/index.php/Definition_Algorithmus">**Algorithmus**</a>. 
+* **Effektivität und Effizienz** sind Eigenschaften eines <a href="http://www.info-wsf.de/index.php/Definition_Algorithmus">**Algorithmus**</a>. 
 * **Die Unterschiede:**
  * Effektivität kann man am besten übersetzen mit **Ausfuehrbarkeit** und ist Grundvoraussetzung! **Ohne die Eigenschaft der Effektivität ist ein Algorithmus kein Algorithmus!**
  * Effizienz hingegen ist eine Eigenschaft, die misst, wie gut / effizient ein Algorithmus das vorliegende Problem löst. **Ein ineffizienter Algorithmus ist ein Algorithmus!** Effizienz ist also **keine** Grundvoraussetzung des Algorithmus.
