@@ -61,11 +61,12 @@ ausführbar ist.
  
 ###konkrete Beispiele:
 * Ein Algorithmus, der <code>alle Stellen von Pi berechnet, alle Primzahlen berechnet oder durch Null teilt</code> ist **NICHT EFFEKTIV**. Er kann vom Computer nicht ausgeführt werden.
-* Betrachten wir folgenden Java-Code:
-<code> public int berechneSumme (int a, int b){ <br> 
-  a = a - 1;  <br>
-  a = a + 1;  <br>
-  return a + b;  <br>
+* Betrachten wir folgenden Java-Code:  
+
+<code> public int berechneSumme (int a, int b){ 
+  a = a - 1;  
+  a = a + 1;  
+  return a + b;  
 }  
 </code>
  * **Dieser Algorithmus ist EFFEKTIV.** Er kann vom Computer ausgeführt werden. Jedoch ist er nicht **EFFIZIENT**, da er sinnloserweise 2 Operationen auf 'a' ausführt. 
