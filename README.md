@@ -7,3 +7,8 @@ Vorbereitung auf EiAPS :D
 
 
 ##<a href="https://github.com/BastiPaeltz/eiaps-vorbereitung/blob/master/Effektivit%C3%A4t%20vs.%20Effizienz.MD">Effektivität vs. Effizienz</a>
+
+
+##<a href="https://github.com/BastiPaeltz/eiaps-vorbereitung/blob/master/Syntax%20vs.%20Semantik.MD">Syntax vs. Semantik</a>
+
+##<a href="https://github.com/BastiPaeltz/eiaps-vorbereitung/blob/master/Datentyp%20vs.%20Datenstruktur.MD">Datentyp vs. Datenstruktur</a>
