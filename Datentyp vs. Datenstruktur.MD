@@ -6,7 +6,7 @@ manipuliert werden ?
   * welche Operationen sind auf welchen Arten von Werten erlaubt ?
   * wie können Operationen sinnvoll kombiniert und ausgewertet werden ?
   * wie können (Zwischen-)Ergebnisse gesichert und weiterverwendet werden?
---> <b>Wertebereiche, Deklarationen, Definitionen und Umgebungen</b> <br>
+--> <b>Wertebereiche, Deklarationen, Definitionen und Umgebungen</b> 
 * **Datentyp:** Spezifikation und Verwendung (‚Was‘)
  * abstrakte Funktionalität steht im Vordergrund
  * Jedes Exemplar eines Typs (Instanz einer Klasse) unterstützt einen
