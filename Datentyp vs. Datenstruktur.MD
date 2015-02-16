@@ -33,7 +33,7 @@ Programmiersprachen
 unabhängig von einzelnen Sprachen als sinnvoll identifiziert
  * je nach verwendeter Sprache evtl. aber unterschiedlich ‚nützlich‘
 * **Grundlage**: verfügbare Programmier-Sprache
- * grundlegende Wertebereiche: bool, int, float, …, char, String, … 
+ * grundlegende Wertebereiche: <code>bool, int, float, …, char, String, … </code>
 
 ###zusätzliche Infos:
 * Das denke ich reicht aus als Information. 
@@ -44,7 +44,7 @@ unabhängig von einzelnen Sprachen als sinnvoll identifiziert
 
 
 ###konkrete Beispiele:
-* Ein **Datentyp** in Java wäre z.B. **int** / Integer:
+* Ein konkreter **Datentyp** in Java wäre z.B. **int** / Integer:
   ```
   int zahl = 3;
   ```
