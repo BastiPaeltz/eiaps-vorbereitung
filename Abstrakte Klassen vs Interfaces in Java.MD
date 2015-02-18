@@ -9,7 +9,7 @@
 | Sichtbarkeit | alles muss <code>public</code> sein | kann private oder public sein |
 | INstanzierung | kann nicht instanziert werden | kann nicht instanziert werden |
 | Vererbung | Ein Interface, das ein anderes Interface implementiert muss dessen Methoden nicht implementieren. Implementiert eine Klasse ein Interface, verpflichtet sie sich dazu alle seine Methoden zu implementieren. Tut sie dies nicht, muss es eine abstrakte Klasse sein.  | Eine Klasse, die von einer abstrakten Klasse erbt, muss alle abstrakten Methoden implementieren, ansonsten muss sie selbst eine abstrakte Klasse sein | 
-| Einbindung mit Schlüsselwort | <code>extends</code> | <code>implements</code>|
+| Einbindung mit Schlüsselwort | <code>implements</code> | <code>extends</code>|
 
 ###Beispiele in Java:
 
