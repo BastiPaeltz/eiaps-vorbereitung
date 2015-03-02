@@ -60,8 +60,8 @@ unabhängig von einzelnen Sprachen als sinnvoll identifiziert
   * Gleichzeitig definiert das int-Array **Operationen**, die man "auf ihm" ausführen kann, z.B. <code>myArray[0] = 1;</code> 
   oder die Methode <code>sort(myArray)</code>, die das Array sortiert.
   
-* Eine weitere **Datenstruktur** in Java ist die Klasse (oder das Objekt):
-  * Die Klasse ist **heterogen**, da sie Daten vom unterschiedlichen **Datentyp** speichern kann.
+* Eine weitere **Datenstruktur** in Java ist das Objekt:
+  * Es ist **heterogen**, da sie Daten vom unterschiedlichen **Datentyp** speichern kann.
   ```java
   public class Auto{
     int baujahr;
@@ -69,7 +69,7 @@ unabhängig von einzelnen Sprachen als sinnvoll identifiziert
   }
   ``` 
   * Sein Wertebereich umfasst in unserem Beispiel <code>baujahr und marke</code>, 2 Elemente vom Typ <code>int und String</code>
-  * Gleichzeitig definiert das int-Array Operationen, die man "auf ihm" ausführen kann, z.B. <code>Auto.baujahr = 1935</code> (sobald man Konstrukltor usw. angelegt hat) 
+  * Gleichzeitig definiert das Objekt Operationen, die man "auf ihm" ausführen kann, z.B. <code>Auto.baujahr = 1935</code> (sobald man Konstrukltor usw. angelegt hat) 
   
 
 
